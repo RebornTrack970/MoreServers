@@ -5,7 +5,7 @@ Events.on(Trigger.update.class, () => {
   
   if(ohno != 1)
   {
-    var allServers = Vars.defaultServers;
+    var allServers = Vars.defaultServers.each();
     ohno = 1;
   }
   
