@@ -5,7 +5,7 @@ Events.on(Trigger.update.class, () => {
   
   if(ohno != 1)
   {
-    const allServers = Vars.defaultServers;
+    var allServers = Vars.defaultServers;
     ohno = 1;
   }
   
