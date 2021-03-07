@@ -10,7 +10,8 @@
 - Code:  "Vars.defaultServers.add(new ServerGroup("Group name here", ["Server IP Here"]));"
 - Then paste it after the previous code, change the ip and group and make a pr.
 
-***Also, keep in mind that me (RTOmega) has no responsibility over what happens inside the servers as i have no control over them.***
+***Also, keep in mind that me (RTOmega) has no responsibility over what happens inside the servers as i have no control over them. Thus, this mod uses js so it may not work on all clients.***
+
 
 **Server requirements:**
 - Make it have a name
