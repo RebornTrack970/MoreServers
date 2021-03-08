@@ -26,6 +26,7 @@
 - Unjown - Braindustry
 - TheDimas - Dimas server
 - Volas171 - o7 anarchy server
+- Mr Keraye - Mr Keraye's Server
 
 **Special Thanks to:**
 - Qmelz for helping/finding the code
