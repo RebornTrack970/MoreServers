@@ -10,7 +10,7 @@ Events.on(Trigger.update.class, () => {
     Vars.defaultServers.add(new ServerGroup("Modded-Unjown Server", ["braindustryserver.ddns.net:25647"]));
     Vars.defaultServers.add(new ServerGroup("2B2P", ["o7inc.ddns.net"]));
     Vars.defaultServers.add(new ServerGroup("THEDIMAS", ["fifr3.quackhost.uk:26160"]));
-    
+    Vars.defaultServers.add(new ServerGroup("Mr Keraye's Server", ["evmat.ddns.net"]));
     
     //servers end here
     s = 0;
