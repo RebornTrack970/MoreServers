@@ -23,6 +23,9 @@
 
 **Servers:**
 - RTOmega - BetaMindy-Server
+- Unjown - Braindustry
+- TheDimas - Dimas server
+- Volas171 - o7 anarchy server
 
 **Special Thanks to:**
 - Qmelz for helping/finding the code
