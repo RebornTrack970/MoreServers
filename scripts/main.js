@@ -7,7 +7,9 @@ Events.on(Trigger.update.class, () => {
     // Example
     Vars.defaultServers.add(new ServerGroup("Modded Betamindy Server", ["185.86.230.102:25603"]));
     //add your server by using the same code
-    
+    Vars.defaultServers.add(new ServerGroup("Modded-Unjown Server", ["braindustryserver.ddns.net:25647"]));
+    Vars.defaultServers.add(new ServerGroup("2B2P", ["o7inc.ddns.net"]));
+    Vars.defaultServers.add(new ServerGroup("THEDIMAS", ["fifr3.quackhost.uk:26160"]));
     
     
     //servers end here
